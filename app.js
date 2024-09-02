@@ -36,3 +36,11 @@ console.log("For")
     // }
     // console.log(` jami sonlar: ${sum}`)
 }
+
+{
+    console.log("Masala-4")
+    let sum =500
+    for(let i = 1 ; i<=10; i++){
+        console.log(`${i*sum} sum`)
+    }
+}
