@@ -89,16 +89,25 @@ console.log("For")
 
 }
 {
-    console.log("Masala-9")
-    let a = 2
-    let b = 3
+    // console.log("Masala-9")
+    // let a = 2
+    // let b = 3
+    // total = 0
+    // if(a>b){
+    //         console.log("Xato A kichik son bo'lsin")
+    //      }
+    // for(let i = a ; i<=b ; i++){
+    //     total += i**2
+    // }
+    // console.log(total)
+
+}
+{
+    console.log("Masala-10")
+    let n = 5
     total = 0
-    if(a>b){
-            console.log("Xato A kichik son bo'lsin")
-         }
-    for(let i = a ; i<=b ; i++){
-        total += i**2
+    for(let i = 1 ; i<=n ; i++){
+        total += 1/i
     }
     console.log(total)
-
 }
