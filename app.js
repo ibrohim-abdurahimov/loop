@@ -45,9 +45,32 @@ console.log("For")
     // }
 }
 {
-    console.log("Masala-5")
-    let sum = 300
-    for(let i = 0.1 ; i<=1 ; i+=0.1){
-        console.log(`${i*sum} sum`)
+    // console.log("Masala-5")
+    // let sum = 300
+    // for(let i = .1 ; i<=1 ; i+=.1){
+    //     console.log(`${i*sum} sum`)
+    // }
+}
+
+{
+    // console.log("Masala-6")
+    // let sum = 500
+    // for(let i = 1.2 ; i<=2 ; i+=.2){
+    //     console.log(`${i*sum} sum`)
+    // }
+}
+
+{
+    console.log("Masala-7")
+    let a = 2
+    let b = 5
+    total = 0
+    if(a>b){
+            console.log("Xato A kichik son bo'lsin")
+         }
+    for(let i = a ; i<=b ; i++){
+        total += i
     }
+    console.log(total)
+
 }
