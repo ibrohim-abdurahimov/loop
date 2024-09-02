@@ -38,9 +38,16 @@ console.log("For")
 }
 
 {
-    console.log("Masala-4")
-    let sum =500
-    for(let i = 1 ; i<=10; i++){
+    // console.log("Masala-4")
+    // let sum =500
+    // for(let i = 1 ; i<=10; i++){
+    //     console.log(`${i*sum} sum`)
+    // }
+}
+{
+    console.log("Masala-5")
+    let sum = 300
+    for(let i = 0.1 ; i<=1 ; i+=0.1){
         console.log(`${i*sum} sum`)
     }
 }
