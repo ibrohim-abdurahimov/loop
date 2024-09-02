@@ -61,15 +61,43 @@ console.log("For")
 }
 
 {
-    console.log("Masala-7")
+    // console.log("Masala-7")
+    // let a = 2
+    // let b = 5
+    // total = 0
+    // if(a>b){
+    //         console.log("Xato A kichik son bo'lsin")
+    //      }
+    // for(let i = a ; i<=b ; i++){
+    //     total += i
+    // }
+    // console.log(total)
+
+}
+{
+    // console.log("Masala-8")
+    // let a = 2
+    // let b = 5
+    // total = 1
+    // if(a>b){
+    //         console.log("Xato A kichik son bo'lsin")
+    //      }
+    // for(let i = a ; i<=b ; i++){
+    //     total *= i
+    // }
+    // console.log(total)
+
+}
+{
+    console.log("Masala-9")
     let a = 2
-    let b = 5
+    let b = 3
     total = 0
     if(a>b){
             console.log("Xato A kichik son bo'lsin")
          }
     for(let i = a ; i<=b ; i++){
-        total += i
+        total += i**2
     }
     console.log(total)
 
