@@ -1,4 +1,4 @@
-console.log("For")
+console.log("For-masalalar")
 {
     // console.log("Masala-1")
     // let k = 8
@@ -103,11 +103,38 @@ console.log("For")
 
 }
 {
-    console.log("Masala-10")
-    let n = 5
-    total = 0
-    for(let i = 1 ; i<=n ; i++){
-        total += 1/i
+    // console.log("Masala-10")
+    // let n = 5
+    // total = 0
+    // for(let i = 1 ; i<=n ; i++){
+    //     total += 1/i
+    // }
+    // console.log(total)
+}
+
+
+console.log("While- masalalar")
+{
+    console.log("Masala-1")
+    let a = 25
+    let b = 15
+    while(a>b){
+        a-=b
+    }if(a==b){
+        a=0
     }
-    console.log(total)
+    console.log(a)
+}
+{
+    console.log("Masala-1")
+    let a = 60
+    let b = 15
+    totlal = 0
+    while(a>b){
+        a -=b
+        totlal ++
+    }if(a==b){
+        totlal ++
+    }
+    console.log(totlal)
 }
